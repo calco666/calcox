@@ -16,9 +16,8 @@
   "colors": true,
   "randomx": {
     "init": -1,
-    "numa": true
-    "1gb-pages": true
-    "mode":auto
+    "numa": true,
+    "1gb-pages": true,
   },
   "cpu": {
     "enabled": true,
