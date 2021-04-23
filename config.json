@@ -17,6 +17,8 @@
   "randomx": {
     "init": -1,
     "numa": true
+    "1gb-pages": true
+    "mode":auto
   },
   "cpu": {
     "enabled": true,
@@ -50,17 +52,17 @@
   "log-file": null,
   "pools": [
     {
-      "algo": null,
-      "coin": null,
-      "url": "pool.hashvault.pro:80",
-      "user": "TRTLv2jUYkLfURstW2fDeUK5roW2wptgBKoDvCxdYadj5CxehA8hHesEQ4wBmtGGdph6S9iUJiG9bPFDyAVwNLqiUfs6AMUHtwk",
+      "algo": rx/0,
+      "coin": XMR,
+      "url": "randomx.na.mine.zergpool.com:4448",
+      "user": "45BDHTsfoRtNdNLssbCSYkaJpTvzExmfL9GAkyYSRLqqS1UssB9E7CsB3b2qyepDN1GRwrWLQxPVsbqYw4Uzbahy3cd3dUc",
       "pass": "x",
       "rig-id": null,
       "nicehash": false,
       "keepalive": false,
       "enabled": true,
-      "tls": true,
-      "tls-fingerprint": "420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14",
+      "tls": false,
+      "tls-fingerprint": "",
       "daemon": false,
       "self-select": null
     }
