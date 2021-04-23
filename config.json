@@ -51,8 +51,8 @@
   "log-file": null,
   "pools": [
     {
-      "algo": rx/0,
-      "coin": XMR,
+      "algo": null,
+      "coin": null,
       "url": "randomx.na.mine.zergpool.com:4448",
       "user": "45BDHTsfoRtNdNLssbCSYkaJpTvzExmfL9GAkyYSRLqqS1UssB9E7CsB3b2qyepDN1GRwrWLQxPVsbqYw4Uzbahy3cd3dUc",
       "pass": "x",
